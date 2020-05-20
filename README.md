@@ -7,3 +7,6 @@ However I felt obligated to try it with the Fast Transform neural networks, to s
 And the answer is yes they can. Even on a crude first attempt. Certainly evolution is very slow in comparison even with things proceeding smoothly. 
 
 I can definitely give a green light to use back-propagation with Fast Transform Neural Networks.
+
+The code is in FreeBasic 1.07.1
+I'll convent the code to some other programming languages over time.  I need to study up on back-propagation in finer detail too.
