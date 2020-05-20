@@ -9,4 +9,5 @@ And the answer is yes they can. Even on a crude first attempt. Certainly evoluti
 I can definitely give a green light to use back-propagation with Fast Transform Neural Networks.
 
 The code is in FreeBasic 1.07.1
+
 I'll convent the code to some other programming languages over time.  I need to study up on back-propagation in finer detail too.
