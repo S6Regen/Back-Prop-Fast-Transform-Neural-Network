@@ -1,7 +1,7 @@
 # Back-Prop-Fast-Transform-Neural-Network
 Fast Transform (aka Fixed Filter Bank) Neural Network using Back-Propagation.
 
-I have hardly ever used/tried back-propagation.  I then to use evolution algorithm exclusively.
+I have hardly ever used/tried back-propagation.  I use evolution algorithm nearly exclusively.
 
 However I felt obligated to try it with the Fast Transform neural networks, to see if they could even be trained with back-propagation.  
 And the answer is yes they can. Even on a crude first attempt it worked quite well.
